@@ -1,4 +1,4 @@
-# Project Title
+# Multimodal example
 
 ## Setup Instructions
 
